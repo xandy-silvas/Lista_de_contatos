@@ -1,1 +1,18 @@
-# Lista_de_contatos
+# Regras da aplicação
+
+- A aplicação deve iniciar mostrando uma lista de opções do que é possível fazer com o app e permitir que o usuário digite uma escolha para iniciar a aplicação.
+
+- Deve ser possível adicionar um contato
+    - Nome
+    - Telefone
+    - Email
+    - Favorito (está opção é para poder marcar um contato como favorito)
+- Deve ser possível visualizar a lista de contatos cadastrados
+- Deve ser possível editar um contato
+- Deve ser possível marcar/desmarcar um contato como favorito
+- Deve ser possível ver uma lista de contatos favoritos
+- Deve ser possível apagar um contato
+
+# Aprendizado
+- Declaração de variaveis 
+- Funções 
